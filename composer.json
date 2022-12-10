@@ -1,5 +1,9 @@
 {
+    "name": "xiaoheime/hello-world",
     "require": {
         "monolog/monolog": "^2.8"
+    },
+    "autoload": {
+        "psr-4": {"Xiaohei\\": "src/"}
     }
 }
