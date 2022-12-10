@@ -4,6 +4,7 @@
         "monolog/monolog": "^2.8",
         "swoole/ide-helper": "^5.0"
     },
+    "license": "MIT",
     "autoload": {
         "psr-4": {"Xiaohei\\": "src/"}
     }
