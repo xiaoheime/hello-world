@@ -7,5 +7,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {"Xiaohei\\": "src/"}
+    },
+    "require-dev": {
+        "barryvdh/laravel-ide-helper": "^2.12"
     }
 }
